@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Siddharth Bhardwaj</h1>
+<h1 align="center">Hi 👋, I'm Siddharth Bhardwaj</h1>
 <h3 align="center">Experienced Software Engineer; MS CS @ NYU</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth-bhardwaj" alt="siddharth-bhardwaj" /></a> </p>
-
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/siddharth-bh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-bh" height="30" width="40" /></a>
 </p>
 
