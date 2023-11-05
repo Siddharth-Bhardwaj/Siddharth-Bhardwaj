@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Siddharth Bhardwaj</h1>
-<h3 align="center">Experienced Software Engineer completing my MS CS @ NYU</h3>
+<h1 align="center">Hi, I'm Siddharth Bhardwaj</h1>
+<h3 align="center">Experienced Software Engineer; MS CS @ NYU</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth-bhardwaj" alt="siddharth-bhardwaj" /></a> </p>
 
